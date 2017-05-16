@@ -1,0 +1,26 @@
+{
+  "name": "psadmin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "chandra",
+  "license": "ISC",
+  "dependencies": {
+    "gulp": "^3.9.1",
+	"gulp-connect": "*",
+	"gulp-open": "*",
+	"browserify": "*",
+	"reactify": "*",
+	"vinyl-source-stream": "*",
+	"bootstrap":"*",
+	"jquery":"*",
+	"gulp-concat" : "*",
+	"gulp-eslint" : "*",
+	"react": "0.13.3",
+	"react-router": "0.13.3",
+	"flux": "2.0.3"
+  }
+}
